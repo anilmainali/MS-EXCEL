@@ -9,6 +9,9 @@
 # Relative and Absolute Reference
 # Autofill
 # Shortcuts
+# Basic Excel Formulas
+# Tips on figuring out which functions to use
+
 
 
 
