@@ -8,6 +8,8 @@
 ## Division
 # Relative and Absolute Reference
 # Autofill
+# Shortcuts
+
 
 
 
